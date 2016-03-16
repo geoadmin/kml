@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
    <Document>
-      <name>Drawing</name>
-      <Placemark id="marker_1457761337522">
+      <name>Drawing name</name>
+      <Placemark>
+         <name>Placemark name</name>
          <Style>
             <IconStyle>
                <Icon>
