@@ -1,22 +1,20 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-   <Document>
-      <name>Drawing name</name>
-      <Placemark>
-         <name>Placemark name</name>
-         <Style>
-            <IconStyle>
-               <Icon>
-                  <href>https://map.geo.admin.ch/1457621381/img/maki/marker-24@2x.png</href>
-                  <gx:w>48</gx:w>
-                  <gx:h>48</gx:h>
-               </Icon>
-               <hotSpot x="24" y="24" xunits="pixels" yunits="pixels" />
-            </IconStyle>
-         </Style>
-         <Point>
-            <coordinates>8.141072957620947,46.92419600473365</coordinates>
-         </Point>
-      </Placemark>
-   </Document>
+  <Document>
+    <name>Drawing name</name>
+    <Placemark>
+      <name>Placemark name</name>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>https://map.geo.admin.ch/1457621381/img/maki/marker-24@2x.png</href>
+          </Icon>
+          <hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>8.141072957620947,46.92419600473365</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
 </kml>
