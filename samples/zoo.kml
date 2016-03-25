@@ -7,8 +7,6 @@
           <scale>0.25</scale>
           <Icon>
             <href>http://map.geo.admin.ch/1417604350/img/maki/restaurant-24@2x.png</href>
-            <gx:w>48</gx:w>
-            <gx:h>48</gx:h>
           </Icon>
           <hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/>
         </IconStyle>
@@ -23,8 +21,6 @@
           <scale>0.25</scale>
           <Icon>
             <href>http://map.geo.admin.ch/1417604350/img/maki/bus-24@2x.png</href>
-            <gx:w>48</gx:w>
-            <gx:h>48</gx:h>
           </Icon>
           <hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/>
         </IconStyle>
@@ -39,8 +35,6 @@
           <scale>0.25</scale>
           <Icon>
             <href>http://map.geo.admin.ch/1417604350/img/maki/car-24@2x.png</href>
-            <gx:w>48</gx:w>
-            <gx:h>48</gx:h>
           </Icon>
           <hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/>
         </IconStyle>
@@ -55,8 +49,6 @@
           <scale>0.25</scale>
           <Icon>
             <href>http://map.geo.admin.ch/1417604350/img/maki/car-24@2x.png</href>
-            <gx:w>48</gx:w>
-            <gx:h>48</gx:h>
           </Icon>
           <hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/>
         </IconStyle>
@@ -71,8 +63,6 @@
           <scale>0.25</scale>
           <Icon>
             <href>http://map.geo.admin.ch/1417604350/img/maki/toilets-24@2x.png</href>
-            <gx:w>48</gx:w>
-            <gx:h>48</gx:h>
           </Icon>
           <hotSpot x="24" y="24" xunits="pixels" yunits="pixels"/>
         </IconStyle>
