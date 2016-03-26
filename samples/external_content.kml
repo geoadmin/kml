@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://earth.google.com/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>PunkteFilmSlidesPhoto</name>
     <description><![CDATA[Beispiele, wie Information und Media in ein KML eingebettet werden können und üb https://help.geo.admin.ch/?id=64&lang=de in map.geo.admin.ch genutzt werden können]]></description>
