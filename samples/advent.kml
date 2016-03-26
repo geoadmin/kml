@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://earth.google.com/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Adventsfenster Schliern 2014</name>
     <Style id="ico1">
@@ -12,7 +12,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico2">
       <IconStyle>
         <Icon>
@@ -23,7 +22,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico3">
       <IconStyle>
         <Icon>
@@ -34,7 +32,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico4">
       <IconStyle>
         <Icon>
@@ -45,7 +42,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico5">
       <IconStyle>
         <Icon>
@@ -56,7 +52,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico6">
       <IconStyle>
         <Icon>
@@ -67,7 +62,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico7">
       <IconStyle>
         <Icon>
@@ -78,7 +72,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico8">
       <IconStyle>
         <Icon>
@@ -89,7 +82,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico9">
       <IconStyle>
         <Icon>
@@ -100,7 +92,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico10">
       <IconStyle>
         <Icon>
@@ -111,7 +102,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico11">
       <IconStyle>
         <Icon>
@@ -122,7 +112,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico12">
       <IconStyle>
         <Icon>
@@ -133,7 +122,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico13">
       <IconStyle>
         <Icon>
@@ -144,7 +132,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico14">
       <IconStyle>
         <Icon>
@@ -155,7 +142,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico15">
       <IconStyle>
         <Icon>
@@ -166,7 +152,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico16">
       <IconStyle>
         <Icon>
@@ -177,7 +162,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico17">
       <IconStyle>
         <Icon>
@@ -188,7 +172,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico18">
       <IconStyle>
         <Icon>
@@ -199,7 +182,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico19">
       <IconStyle>
         <Icon>
@@ -210,7 +192,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico20">
       <IconStyle>
         <Icon>
@@ -221,7 +202,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico21">
       <IconStyle>
         <Icon>
@@ -232,7 +212,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico22">
       <IconStyle>
         <Icon>
@@ -243,7 +222,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico23">
       <IconStyle>
         <Icon>
@@ -254,7 +232,6 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <name>Adventsfenster Schliern 2014</name>
     <Style id="ico24">
       <IconStyle>
         <Icon>
